@@ -1,2 +1,2 @@
-# King-of-Hill-Sender
-Send Request for King of Hill (CTF).
+# King-of-Hill-Tool
+The tool for sending request for King of Hill (CTF).
