@@ -53,7 +53,7 @@ class KingOfHillTool():
             # waiting
             print('[Info] Now time is {}'.format(datetime.datetime.now()))
             print('[Info] Next schedule is {}'.format(schedule))
-            print('[Info] Next schedule is {} second before'.format(wait_time))
+            print('[Info] Next schedule is {} seconds before'.format(wait_time))
             time.sleep(wait_time)
 
             # run task
